@@ -1,6 +1,6 @@
 # pypkgs_yg 
 
-![](https://github.com/yuyanguo/pypkgs_yg/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/yuyanguo/pypkgs_yg/branch/main/graph/badge.svg)](https://codecov.io/gh/yuyanguo/pypkgs_yg) ![Release](https://github.com/yuyanguo/pypkgs_yg/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_yg/badge/?version=latest)](https://pypkgs_yg.readthedocs.io/en/latest/?badge=latest)
+![](https://github.com/yuyanguo/pypkgs_yg/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/yuyanguo/pypkgs_yg/branch/main/graph/badge.svg)](https://codecov.io/gh/yuyanguo/pypkgs_yg) ![Release](https://github.com/yuyanguo/pypkgs_yg/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs-yg/badge/?version=latest)](https://pypkgs-yg.readthedocs.io/en/latest/?badge=latest)
 
 This cookiecutter creates a boilerplate for a Python project.
 
